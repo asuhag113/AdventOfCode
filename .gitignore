@@ -17,3 +17,6 @@ Cargo.lock
 # Added by cargo
 
 /target
+
+# Dev and env files
+.DS_Store
